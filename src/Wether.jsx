@@ -24,7 +24,7 @@ const[search,setsearch]=useState("jaipur")
     <>
       <div className="bg-blue-100 min-h-screen ">
 
-        <div className="h-80">
+        <div className="h-96 flex flex-col items-center justify-center" >
           <input
             type="search"
             className="bg-black mx-2 my-14 mb-0 rounded-md h-10 w-64 px-5 outline-none text-white "
@@ -32,7 +32,7 @@ const[search,setsearch]=useState("jaipur")
             value={search}
             onChange={handelchange}
           />
-          <img className="h-40 w-40 mx-28 my-10  lg:block" id="cloudicon" src={cloudicon} alt="" />
+          <img className="h-40 w-40  my-10 lg:block" id="cloudicon" src={cloudicon} alt="" />
           </div>
 
 
