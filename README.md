@@ -14,7 +14,7 @@ build-a-weather application where users can select a city and see the weather of
 * HTML/CSS
 
 ## Project Live
-### [Click here](https://todoma.netlify.app/) 
+### [Click here](https://wethermaweb.netlify.app/) 
 
 ## Run This Project on Your Local Machine
 
